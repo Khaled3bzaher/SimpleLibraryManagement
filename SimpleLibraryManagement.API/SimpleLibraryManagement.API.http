@@ -1,0 +1,6 @@
+@SimpleLibraryManagement.API_HostAddress = http://localhost:5166
+
+GET {{SimpleLibraryManagement.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
